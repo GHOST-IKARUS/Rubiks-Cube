@@ -1,5 +1,5 @@
-# Rubiks-Cube-Solver
-Rubik's Cube Solver coded in Python.  
+# Rubiks-Cube
+Rubik's Cube  coded in Python.  
 Solver Coded by <a href="https://github.com/CubeLuke">Lucas</a> and <a href="https://github.com/astrocas09">Djabeur Mohamed Seifeddine Zekrifa</a>
 
 To run the Solver, run the cube.py file. The GUI will automatically start up. If you get errors, there is a chance that you do not have tkinter installed. That is necessary to have in order to run the GUI.
