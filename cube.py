@@ -5,7 +5,7 @@ from tkinter import *
 
 #This is the Cube Solver
 #This version contains a GUI
-#Last Edited on: 12/5/2014
+#Last Edited on: 21/5/2014
 #Written by: ZMDS
 
 
